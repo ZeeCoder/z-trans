@@ -1,0 +1,20 @@
+{
+  "name": "z-trans",
+  "version": "1.0.0",
+  "description": "A simple translator that works similar to the Symfony Translator Component.",
+  "main": "trans.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": "ZeeCoder/z-trans",
+  "author": "Hubert Viktor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeeCoder/z-trans/issues"
+  },
+  "homepage": "https://github.com/ZeeCoder/z-trans#readme",
+  "devDependencies": {
+    "clone": "^1.0.2",
+    "mocha": "^2.2.5"
+  }
+}
