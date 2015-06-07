@@ -1,4 +1,4 @@
-# trans.js
+# z-trans
 [![Build Status](https://travis-ci.org/ZeeCoder/z-trans.svg?branch=master)](https://travis-ci.org/ZeeCoder/z-trans)
 [![npm version](https://badge.fury.io/js/z-trans.svg)](http://badge.fury.io/js/z-trans)
 
